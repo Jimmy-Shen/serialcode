@@ -1,0 +1,7 @@
+2010-05-19 增加resetservice和修改DemoApplicationService层级；
+           README说明已经同步更新；
+2010-05-20 增加xxl-job配置；
+           升级zt3000-parent版本为1.1.0-SNAPSHOT；
+           增加controller/maintain维护，controller/query查询,dto已迁移到controller包中；
+           增加restservice/maintain维护，restservice/query查询；
+2010-05-21 增加Snowflake算法生成唯一ID；
