@@ -69,7 +69,7 @@
         <dependency>
             <artifactId>hutool-core</artifactId>
             <groupId>cn.hutool</groupId>
-            <version>5.3.5</version>
+            <version>5.8.19</version>
         </dependency>
         <!-- gson -->
         <dependency>
